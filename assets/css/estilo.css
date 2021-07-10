@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    background-image: "#carouselExampleControls";
+    font-family: 'Open Sans', sans-serif;
+    color: #b9b9b9;
+}
+
+.linea{
+    color: #b8b9b9;
+}
+
+.navbar{
+    opacity: .4;
+}
+nav img{
+    height: 35px;
+    width: 35px;
+    margin-right: 10px;
+    margin-left: 35px;
+}
+
+.icono{
+    background-color: #33b2ff;
+    text-align: center;
+    color: white;
+}
+
+.form{
+    margin-bottom: 20px;
+}
+
+.footer{
+    width: 100vw;
+    height: 50px;
+    background-color:#33b2ff ;
+}
+
+.icono_footer{
+    display: inline-block;
+}
+
+.texto_footer{
+    display: inline-block;
+    margin-left: 15%;
+    margin-right: 50%;
+}
+
+.fab{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
